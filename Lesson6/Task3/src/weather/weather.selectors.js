@@ -1,0 +1,1 @@
+export const getWeatherSelector = state => state.weather.weatherData;
